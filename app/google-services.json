@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "488154608245",
+    "project_id": "cruddata-6cc45",
+    "storage_bucket": "cruddata-6cc45.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:488154608245:android:28dc9b676a83445e36fe3c",
+        "android_client_info": {
+          "package_name": "com.example.latihancrud"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDS1kOJSQ5F6_fVi1jsS2jv6NDJAbt916I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
