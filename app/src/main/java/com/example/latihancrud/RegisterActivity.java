@@ -57,7 +57,7 @@ public class RegisterActivity extends AppCompatActivity {
                                     editor.apply();
 
                                     // Navigate to MainActivity after successful registration
-                                    startActivity(new Intent(RegisterActivity.this, MainActivity.class));
+                                    startActivity(new Intent(RegisterActivity.this, LoginActivity.class));
                                     finish();
                                 } else {
                                     Toast.makeText(RegisterActivity.this, "Registration Failed: " + task.getException().getMessage(), Toast.LENGTH_LONG).show();
